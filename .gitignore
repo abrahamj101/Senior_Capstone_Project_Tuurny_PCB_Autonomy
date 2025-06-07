@@ -1,0 +1,7 @@
+# Ignore large local models
+models/*.gguf
+models/*.onnx
+models/*.pt
+
+# 🧪 Python
+__pycache__/*.pyc

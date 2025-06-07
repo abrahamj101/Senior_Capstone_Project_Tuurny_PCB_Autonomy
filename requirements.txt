@@ -1,0 +1,5 @@
+gradio==5.27.0
+numpy==2.2.5
+openai==1.76.0
+Pillow==11.2.1
+ultralytics==8.1.24
